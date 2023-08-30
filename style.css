@@ -1,0 +1,69 @@
+li + li {
+    margin-top: 10px;
+}
+
+li + li span {
+    color: green;
+}
+
+
+
+
+
+
+.categorias li {
+    font-weight: normal;
+}
+
+.categorias li:hover {
+    font-weight: bold;
+}
+
+.categorias li:hover ~ li {
+    opacity: 0.5;
+}
+
+
+
+
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input + label,
+form textarea + label {
+    font-weight: bold;
+    color: blue;
+}
+
+
+
+
+
+.opcoes label + input {
+    margin-left: 10px;
+}
+
+.opcoes input[type="radio"]:checked + label {
+    color: blue;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+.lista li {
+    margin-bottom: 5px;
+}
+
+.lista li + li {
+    margin-left: 15px;
+    color: gray;
+    font-style: italic;
+}
