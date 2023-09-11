@@ -1,4 +1,4 @@
-<h1 align="center"> Combinador-Irmão-Exemplos. </h1>
+<h1 align="center"> Combinador-Irmão-Exemplos.. </h1>
 
 ## 🔗 Índice
 * [🎯 Objetivo](#-objetivo)
